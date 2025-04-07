@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/crackpotmgee/code-agent#readme",
   "dependencies": {
-    "openai": "^4.92.0"
+    "@types/express": "^5.0.1",
+    "express": "^5.1.0",
+    "openai": "^4.92.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
   }
 }

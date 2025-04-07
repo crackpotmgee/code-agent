@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "moduleResolution": "node",
+      "outDir": "dist", // Output directory for compiled JavaScript
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true
+    },
+    "include": ["src"] // Specify the directory to include for compilation
+  }
